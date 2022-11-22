@@ -1,6 +1,7 @@
 body{
     background-image:url(/images/cat-g8671220e6_1280.png);
-    
+    background-repeat: no-repeat;
+    background-position: center;
 }
 h1{
     font-family: 'Pacifico', cursive;
