@@ -1,0 +1,43 @@
+body{
+    background-image:url(/images/cat-g8671220e6_1280.png);
+    
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    
+    
+    
+   
+}
+
+#header, #footer{
+    background-color: rgb(165, 165, 165);
+    opacity: 80%;
+    height:80px;
+}
+#article{
+    background-color: #ffff;
+    opacity: 90%;
+}
+
+#container{
+    align-content: left;
+}
+nav{
+    
+    margin-left: 0;
+    height:200px;
+    font-size: 18px;
+    
+    
+    
+
+}
+nav a{
+    padding:10px;
+    margin-top: 10px;
+    border:1px solid black;
+    background-color: rgb(255, 189, 208);
+    border-radius: 5px;
+   
+}
