@@ -1,24 +1,52 @@
 body{
-    background-image:url(/images/cat-g8671220e6_1280.png);
+    background-image:url(/images/hd-wallpaper-g7f9e5e2d2_1920.jpg);
     background-repeat: no-repeat;
     background-position: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
-h1{
-    font-family: 'Permanent Marker', cursive;
+#header h1{
+    font-family: 'Unna', serif;
+    position: relative;
+    left:36%;
+    align-self: center;
+    
+   
     
     
     
    
 }
 
+#header img{
+    float:left;
+    padding:10px;
+    position: relative;
+    left:3%;
+    
+   
+   
+   
+    
+}
+
 #header, #footer{
-    background-color: rgb(165, 165, 165);
+    background-color:#C44B8F;
     opacity: 80%;
-    height:80px;
+    height:90px;
+    display:flex;
+    
+    
+    
+    
+}
+#footer{
+    justify-content: center;
+    
 }
 #article{
-    background-color: #ffff;
-    opacity: 90%;
+    background-color:#FEEEF7;
+    opacity: 80%;
+    text-align: left;
 }
 
 #container{
@@ -32,15 +60,22 @@ nav{
     
     
     
+    
+    
 
 }
 nav a{
     padding:10px;
-    margin-top: 10px;
+    margin-top: 12px;
     border:1px solid black;
-    background-color: rgb(255, 203, 218);
+    background-color:#EB98C7;
     border-radius: 5px;
+    
    
+}
+.decoration{
+    text-decoration: none;
+    color: black;
 }
 
 .material-symbols-outlined {
