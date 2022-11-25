@@ -4,7 +4,7 @@ body{
     background-position: center;
 }
 h1{
-    font-family: 'Pacifico', cursive;
+    font-family: 'Permanent Marker', cursive;
     
     
     
@@ -41,4 +41,12 @@ nav a{
     background-color: rgb(255, 203, 218);
     border-radius: 5px;
    
+}
+
+.material-symbols-outlined {
+  font-variation-settings:
+  'FILL' 0,
+  'wght' 400,
+  'GRAD' 0,
+  'opsz' 48
 }
