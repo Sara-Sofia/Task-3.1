@@ -93,3 +93,13 @@ nav a{
     background-color: #EB98C7;
     
 }
+.accordion-button:not(.collapsed){
+    background-color: #EB98C7;
+}
+.accordion-button:hover{
+    color:#8144A3;
+    
+}
+.accordion-button:focus{
+    color: #8144A3;
+}
