@@ -3,9 +3,12 @@ body{
     background-repeat: no-repeat;
     background-position: center;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top:20px;
+    
 }
 h2{
     color:#8144A3;
+    padding:5px;
 }
 
 #header h1{
@@ -37,11 +40,15 @@ h2{
 }
 #footer{
     justify-content: center;
+   
     
+}
+#footer p{
+    align-self: center;
 }
 #article{
     background-color:#FEEEF7;
-    opacity: 80%;
+    opacity:80%;
     text-align: left;
 }
 
@@ -85,6 +92,7 @@ nav a{
 .cats{
     height:290px;
     padding: 5px;
+    margin-top:35px;
 }
 .accordion-item {
     background-color:#FEEEF7;
@@ -103,3 +111,53 @@ nav a{
 .accordion-button:focus{
     color: #8144A3;
 }
+.carousel{
+    height:267px;
+    width:400px;
+    margin:10px;
+    
+    
+}
+#pictureSlides{
+    background-color: none;
+    
+}
+.extra{
+    background-color: #FEEEF7;
+    position:relative;
+    left:205px;
+    text-align: left;
+    border:1px solid #8144A3;
+    border-radius: 10px;
+    margin-bottom:10px;
+    width:400px;
+    height:250px;
+    
+}
+.extra p{
+    padding:15px;
+}
+#articleOne{
+    border:1px solid #8144A3;
+    border-radius: 10px;
+    background-color:#FEEEF7;
+    text-align: left;
+    margin-top:10px;
+    width:400px;
+    height:250px;
+}
+.links{
+    background-color: #FEEEF7;
+    position:relative;
+    left:80px;
+    text-align: left;
+    border:1px solid #8144A3;
+    border-radius: 10px;
+    margin-bottom:10px;
+    width:400px;
+    height:250px;
+}
+.links p{
+    padding:15px;
+}
+
