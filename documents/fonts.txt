@@ -1,0 +1,2 @@
+Artikkelien fontti: Verdana, Geneva, Tahoma, sans-serif;
+Headerin fontti: (Google fonts) "Unna", serif;

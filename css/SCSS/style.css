@@ -154,4 +154,49 @@ h2 ~ p {
   height: 250px;
 }
 
+@media screen and (max-width:780px) {
+  h2 {
+    padding: 3px;
+  }
+
+  h2 ~ p {
+    padding: 10px;
+  }
+  #articleOne {
+    margin-top: 10px;
+    margin-left:10x;
+    width: 400px;
+    height: 180px;
+    position:relative;
+    left: 50px;
+    font-size: 12px;
+  }
+  .carousel {
+    height: 200px;
+    width: 270px;
+    position: relative;
+    left:0px;
+    margin:0;
+    
+  }
+  .extra {
+    position: relative;
+    left: 50px;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 250px;
+    height: 200px;
+    font-size: 12px;
+  }
+  .links {
+    position: relative;
+    left: 0px;
+    text-align: left;
+    margin-bottom: 10px;
+    width: 527px;
+    height: 180px;
+    font-size: 12px;
+  }
+}
+
 /*# sourceMappingURL=style.css.map */
