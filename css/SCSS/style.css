@@ -1,3 +1,4 @@
+/*Muuttujat:*/
 body {
   background-image: url(/images/hd-wallpaper-g7f9e5e2d2_1920.jpg);
   background-repeat: no-repeat;
@@ -7,7 +8,7 @@ body {
 }
 
 h2 {
-  color: #8144A3;
+  color: #A268C2;
   padding: 5px;
 }
 
@@ -55,8 +56,7 @@ nav {
   height: 200px;
   font-size: 18px;
 }
-
-nav > a {
+nav a {
   padding: 10px;
   margin-top: 13px;
   border: 2px solid #A268C2;
@@ -89,6 +89,7 @@ nav > a {
 .accordion-item {
   background-color: #FEEEF7;
 }
+
 .accordion-button {
   background-color: #EB98C7;
 }
@@ -128,7 +129,7 @@ nav > a {
 }
 
 h2 ~ p {
-    padding: 15px;
+  padding: 15px;
 }
 
 #articleOne {
@@ -152,7 +153,5 @@ h2 ~ p {
   width: 400px;
   height: 250px;
 }
-
-
 
 /*# sourceMappingURL=style.css.map */
